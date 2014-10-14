@@ -1,0 +1,15 @@
+{
+  "name": "ioshat-swift-image-textfield",
+  "title": "Image Text Field (Swift)",
+  "version": "0.0.1",
+  "description": "Template for Image Text Field in Swift",
+  "scope": "source.swift",
+  "main": "main.coffee",
+  "category": "image",
+  "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "bundledDependencies": [
+  ]
+}
